@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "email": "csjefftest@gmail.com",
+      "password": "testhr",
+      "token": "qwerty12345",
+      "username": "Jeffri"
+    }
+  ],
+  "employees": {
+    "name": "Jeffri"
+  }
+}
